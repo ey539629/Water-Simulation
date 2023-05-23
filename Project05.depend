@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1683155921 source:c:\users\erick\onedrive\desktop\csci 173\project05\main.cpp
+	<glew.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<math.h>
+	<SOIL.h>
+	<string.h>
+	<fstream>
+
+1678487075 c:\users\erick\onedrive\desktop\csci 173\common\include\glew.h
+	<cstddef>
+	<cstdint>
+	<stddef.h>
+	<stdint.h>
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1675115751 c:\users\erick\onedrive\desktop\csci 173\common\include\gl\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1664388746 c:\users\erick\onedrive\desktop\csci 173\common\include\soil.h
+
